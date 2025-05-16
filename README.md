@@ -1,2 +1,0 @@
-# Appium
-Mobile testing
